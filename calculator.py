@@ -26,9 +26,12 @@ def main():
 def add(a, b):
     return a + b
 
-
+# Substract
 def subtract(a,b):
     return a-b
+#
+def multiply(a,b):
+    return a*b
 
 
 # More functions to be added by students
