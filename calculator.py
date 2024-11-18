@@ -29,10 +29,12 @@ def add(a, b):
 # Substract
 def subtract(a,b):
     return a-b
-#
+#multiplication
 def multiply(a,b):
     return a*b
 
+def divide(a,b):
+    return a/b
 
 # More functions to be added by students
 
