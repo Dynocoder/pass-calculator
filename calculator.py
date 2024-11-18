@@ -26,6 +26,11 @@ def main():
 def add(a, b):
     return a + b
 
+
+def subtract(a,b):
+    return a-b
+
+
 # More functions to be added by students
 
 if __name__ == "__main__":
